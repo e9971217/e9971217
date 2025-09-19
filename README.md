@@ -1,1 +1,5 @@
-# README.md
+- 👋 Hi, My name is Cheng-Xian (Nick) Lin 
+- 🏫 M.Sc. Graduate of National Cheng Kung University
+- 🏫 Working at XUNWEI Technology Co., Ltd
+- 👀 Interested in `Computer Vision`, `Deep Learning`, `GNSS Positioning`, `Sensor Fusion` and `Inertial Navigation System`
+- 📫 Contact me：e9971217@gmail.com
