@@ -30,10 +30,13 @@
 ###
 <img src="https://github.com/e9971217/e9971217/blob/main/snake.svg" alt="Snake animation" />
 
-<div align="center">
 
-  <a href='https://clustrmaps.com/site/1c803'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=fffafa&w=590&t=tt&d=EFdZEzfF_wm7kJnY-qEIW4yieG09sq9ufFwzlkN4YMs&co=0f2c41&ct=cdd4d9'/></a>
+<div align="center">
+  <a href="https://clustrmaps.com/site/1c803" title="Visit tracker" target="_blank" rel="noopener noreferrer">
+    <img src="https://clustrmaps.com/map_v2.png?cl=fffafa&w=590&t=tt&d=EFdZEzfF_wm7kJnY-qEIW4yieG09sq9ufFwzlkN4YMs&co=0f2c41&ct=cdd4d9" alt="Visitor Map"/>
+  </a>
 </div>
+
 <!--
 **e9971217/e9971217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
