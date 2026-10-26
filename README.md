@@ -3,7 +3,7 @@
 ###
 
 - 🙋🏻‍♂️ My name is Cheng-Xian (Nick) Lin
-- 🔭 I’m currently working at XUNWEI Technology Co., Ltd
+- 🔭 Currently working as a Software Engineer, focusing on robust software systems and algorithm integration.
 - 🏫 M.Sc. graduate of National Cheng Kung University
 - 💬 Contact me：e9971217@gmail.com
 - 🌱 Interested in Computer Vision, Deep Learning, GNSS Positioning, Sensor Fusion, and Inertial Navigation Systems
